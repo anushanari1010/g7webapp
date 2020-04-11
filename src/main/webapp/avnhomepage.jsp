@@ -6,7 +6,7 @@
 <title>Chicago DevOps Bootcamp Batch 2 - G7</title>
 <style>
 body{
-background-color: #f9f8f7;
+background-color: #d2fafb;
 }
 #home
 {
@@ -54,8 +54,8 @@ color:white;
 </section>
 <section class="wlp-login-message-content" style="left: 640px;top: 210px;">
 <b><p style="text-align: center;font-size: 25px;">Devices</p></b>
-<a href="avncreatepage.jsp" style="color: white;font-size: 20px;position: absolute;left:71px;">Create</a><br>
-<a href="${pageContext.request.contextPath}/viewticket.do" style="color: white;font-size: 20px;position: absolute;left:75px;">View</a><br>
+<a href="" style="color: white;font-size: 20px;position: absolute;left:71px;">Create</a><br>
+<a href="" style="color: white;font-size: 20px;position: absolute;left:75px;">View</a><br>
 </section>
 <section class="wlp-login-message-content" style="left: 900px;top: 210px;">
 <b><p style="text-align: center;font-size: 25px;">Payment</p></b>
