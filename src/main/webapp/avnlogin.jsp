@@ -15,7 +15,7 @@
 </head>
 <style>
 body {
-  background: #BE81F7;
+  background: #d2fafb;
   color: #666666;
   font-family: 'RobotoDraft', 'Roboto', sans-serif;
   font-size: 14px;
