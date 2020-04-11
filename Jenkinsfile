@@ -69,7 +69,7 @@ stage('deploy to qa'){
  }
  
   stage('Blazemeter Performace Testing') {
- blazeMeterTest credentialsId: 'Blazemeter', testId: '7904505.taurus', workspaceId: '468378'
+ blazeMeterTest credentialsId: 'Blazemeter', testId: '7912921.taurus', workspaceId: '468370'
 }
 
 stage('deploy to prod'){
